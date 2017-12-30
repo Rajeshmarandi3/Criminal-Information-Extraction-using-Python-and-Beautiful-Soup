@@ -7,4 +7,6 @@ I had never worked on information extraction from pdf or image.
 I scrapped the pdf links, downloaded it and later processed and exctracted information using Python.
 The image quality was not good for most of the pdfs thus I failed to extract clear information.
 But this code will surely help you, if your pdf or image is in good state.
+
+You can find the codes in ##Crime.ipynb file.
 Good luck.
